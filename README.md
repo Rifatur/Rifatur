@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 Trying out Nest JS
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and play video games
+- ⚡ Fun fact: I love to travel and video games
 
 
 ### Connect with me:
