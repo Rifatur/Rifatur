@@ -1,12 +1,11 @@
 ## Hi there, I'm Rifatur Rahman - 👋
 
-### I'm a Full-Stack Developer, and Gamer!!
+### I'm a Full-Stack Developer !!
 
 - 🔭 I like Experimenting with New technologies,building small projects 
 - 🌱 I’m currently learning everything 🤣
-- 👯 Trying out Nest JS
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and video games
+- 👯 Trying out C#
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
