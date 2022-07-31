@@ -18,7 +18,7 @@ I'm a Full-Stack Developer !!
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </p>
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifatur&show_icons=true&locale=en" alt="rifatur" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifatur&" alt="rifatur" />
 </p>
