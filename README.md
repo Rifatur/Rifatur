@@ -2,10 +2,10 @@
 <h1 align="center">Hi there,👋I'm Rifatur Rahman</h1>
 I'm a Full-Stack Developer !!
 
-- 🔭 I like Experimenting with New technologies,building small projects 
+- 🔭 I like Experimenting with New technologies, building small projects 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Trying out C#
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rifat_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_rn" height="30" width="40" /></a>
