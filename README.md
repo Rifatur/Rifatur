@@ -6,24 +6,7 @@ I'm a Full-Stack Developer !!
 - 🌱 I’m currently learning everything 🤣
 - 👯 Trying out C#
 - 🥅 2023 Goals: Contribute more to Open Source projects
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```txt
-TypeScript    26 hrs 23 mins  ████████████████████████░   96.03 %
-JavaScript    47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-CSS           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Bash          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-```
-
-<!--END_SECTION:waka-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rifat_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_rn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rifatur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifatur-rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/rifat_nibrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifat_nibrit" height="30" width="40" /></a>
-<br />
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -48,7 +31,12 @@ JSON          3 mins          ░░░░░░░░░░░░░░░░�
 
 
 <a name="learning-next"></a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rifat_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_rn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rifatur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifatur-rahman" height="30" width="40" /></a>
+<a href="https://instagram.com/rifat_nibrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifat_nibrit" height="30" width="40" /></a>
+<br />
 
 
 <p>
