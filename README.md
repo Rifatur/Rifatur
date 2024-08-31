@@ -17,22 +17,22 @@ I'm a Full-Stack Developer !!
 <a name="learning-now"></a>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" alt="C Charp logo" title="C#" height="25" />&nbsp;
-[<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET logo" title="" height="25" />]&nbsp;
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET logo" title="" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=plastic" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker logo" title="Docker" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap logo" title="Bootstrap" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind logo" title="TailwindCSS" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic" alt="GitHub logo" title="GitHub" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic" alt="GitLab logo" title="GitLab" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=plastic" alt="Apache logo" title="Apache Kafka" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />]&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />]&nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker logo" title="Docker" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic" alt="Tailwind logo" title="TailwindCSS" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=plastic" alt="GitHub logo" title="GitHub" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=plastic" alt="GitLab logo" title="GitLab" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=plastic" alt="Apache logo" title="Apache Kafka" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 
 
 <a name="learning-next"></a>
