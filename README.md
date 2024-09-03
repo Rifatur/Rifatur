@@ -5,7 +5,7 @@ I'm a Full-Stack Developer !!
 - 🔭 I like Experimenting with New technologies, building small projects 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Trying out C#
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ## 🛠  Technologies and tools
 
