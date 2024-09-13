@@ -17,13 +17,13 @@ I'm a Full-Stack Developer !!
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rifatur&theme=darcula&hide_border=true)<br/>
 
-<a name="learning-next"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rifat_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifat_rn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rifatur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifatur-rahman" height="30" width="40" /></a>
 <a href="https://instagram.com/rifat_nibrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifat_nibrit" height="30" width="40" /></a>
-<br />
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<a name="learning-now"></a>
+
+
+
 
