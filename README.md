@@ -4,7 +4,7 @@ I'm a Full-Stack Developer !!
 
 - 🔭 I like Experimenting with New technologies, building small projects 
 - 🌱 I’m currently learning everything 🤣
-- 👯 Trying out Angular js & Apache Kafka
+- 👯 Trying out Angular js & .NET MAUI
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
 
