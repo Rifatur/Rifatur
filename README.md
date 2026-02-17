@@ -41,7 +41,8 @@ My passion lies in solving complex problems—whether it's optimizing SQL querie
 </div>
 
 ---
-<div align="center">
+
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rifatur&theme=darcula&hide_border=true)<br/>
 </div>
