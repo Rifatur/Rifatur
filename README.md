@@ -39,10 +39,10 @@ My passion lies in solving complex problems—whether it's optimizing SQL querie
 | ![Serilog](https://img.shields.io/badge/Serilog-512BD4?style=flat&logo=dotnet&logoColor=white) |  | ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white) | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
 
 </div>
-
----
-
-# 📊 GitHub Stats:
 <div align="center">
+  
+# 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rifatur&theme=darcula&hide_border=true)<br/>
+
 </div>
