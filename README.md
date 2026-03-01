@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rifatur_Rahman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rifatur-rahman/)
 [![Email](https://img.shields.io/badge/Email-rifatur.iubat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifatur.iubat@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=safari)](https://github.com/rifatur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=safari)](https://rifatur.vercel.app/)
 
 </div>
 
