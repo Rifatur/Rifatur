@@ -14,9 +14,9 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a results-driven **Software Engineer** with **3+ years** of experience designing enterprise-grade applications. I specialize in building high-performance RESTful APIs, implementing **Clean Architecture**, and deploying scalable solutions on **Azure**.
+I am a results-driven **Software Engineer** with **4 years** of experience designing enterprise-grade applications. I specialize in building high-performance RESTful APIs, implementing **Clean Architecture**, and deploying scalable solutions on **Azure**.
 
-My passion lies in solving complex problems—whether it's optimizing SQL queries (reducing execution from **45s → 3s**) or architecting multi-tenant SaaS platforms.
+My passion lies in solving complex problems—whether it's optimizing SQL queries (reducing execution from **15s-20s → 3s**) or architecting multi-tenant SaaS platforms.
 
 - 🔭 **I’m currently working on:** FMCG Distribution Management Systems at *PlayOn24*.
 - 🌱 **I’m currently learning:** Advanced System Design & Cloud Native patterns.
